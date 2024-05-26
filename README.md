@@ -22,8 +22,8 @@ I am a passionate MCA student at PSG College of Arts and Science. I am driven by
     - Enhancing the knowledge of Selenium And FrameWorks such as TDD, and BDD.
     - Automating various testing websites by writing test cases.
 - 🚀 DSA Topic
-    -Started learning DSA topics.
-    -Topics covered: Searching, Sorting, LinkedList and Trees.
+    - Started learning DSA topics.
+    - Topics covered: Searching, Sorting, LinkedList and Trees.
   
  ## 🏆 Achievements
 
@@ -34,11 +34,11 @@ I am a passionate MCA student at PSG College of Arts and Science. I am driven by
   
  ## 💬 Ask me about ...
  
- -💻 java
- -💻 Selenium
- -💻 TestNg/Cucumber Framework
- -💻 Html/CSS
- -💻 UI designing
+ - 💻 java
+ - 💻 Selenium
+ - 💻 TestNg/Cucumber Framework
+ - 💻 Html/CSS
+ - 💻 UI designing
 
 ## ⚡ Fun fact: ...
   - My hobbies are exploring Arts and crafts ideas and pencil Arts
