@@ -25,7 +25,7 @@ I am a passionate MCA student at PSG College of Arts and Science. I am driven by
     - Started learning DSA topics.
     - Topics covered: Searching, Sorting, LinkedList and Trees.
   
- ## 🏆 Extra Curricular Activities
+ ## 🎶 Extra Curricular Activities
 
   - Conducted College level Events at UG and PG level
   - Participated in ICSSR workshop on “TECHNIQUE TO EMOTIONAL STABILITY & OVERCOME BEHAVIORAL ISSUES DURING PRE & POST MENSTRUAL CYCLE”
