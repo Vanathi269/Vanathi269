@@ -12,9 +12,7 @@ I am a passionate MCA student at PSG College of Arts and Science. I am driven by
 
 ## 🌱 Currently Working on ...
  
-- 🚀 MobileApp Development Using Flutter 
-    -To develop the various websites by Flutter Framework Technologies.
-    -The Major Outcome is Developing the App using Dart language.
+- 🚀 AI Integration
 
 ## 🌱 I’m currently learning ...
 
@@ -23,7 +21,7 @@ I am a passionate MCA student at PSG College of Arts and Science. I am driven by
     - Automating various testing websites by writing test cases.
 - 🚀 DSA Topic
     - Started learning DSA topics.
-    - Topics covered: Searching, Sorting, LinkedList and Trees.
+    - Topics covered: Searching, Sorting, LinkedList and Algorithms.
   
  ## 🎶 Extra Curricular Activities
 
